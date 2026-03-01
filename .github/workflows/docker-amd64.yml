@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: baihu
+  IMAGE_NAME: baihu1
 
 jobs:
   build:
